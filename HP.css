@@ -7,6 +7,7 @@ text-align: center;
   border: solid 20px #1f1f1f;
   line-height: 180px;
   float: inline-start;
+ 
 }
 
 h1 {
@@ -32,9 +33,9 @@ h1 {
   text-align: center;
   border: solid 1px white;
 
-  line-height: 40px;
+  line-height: 20px;
 
-  width:20%;
+  width:40%;
 
 
 }
@@ -50,7 +51,7 @@ h1 {
 
 h2 {
   color: red;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 a {
